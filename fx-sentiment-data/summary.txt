@@ -1,12 +1,12 @@
-通貨心理レーダー｜2026-10-17T04:24:34+00:00
+通貨心理レーダー｜2026-10-17T09:20:39+00:00
 
-鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有0ペア、指標2件、ニュース5件。
+鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有0ペア、指標2件、ニュース6件。
 
 新鮮な投資家保有がないため、参加者の一致・不一致は判定しません。
 
 企業の計画前提・投資家保有・銀行予想は合計点にせず、同じ予測終点の銀行だけを読み合わせます。
 
-取得/形式/巻戻しの問題が14系統。取得失敗は「新情報なし」としません。
+取得/形式/巻戻しの問題が13系統。取得失敗は「新情報なし」としません。
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
@@ -14,7 +14,7 @@
 
 米CPI 総合/最終需要（2026-09・mom・SA）実績+0.6%。発表前保存の市場予想がないため、サプライズは計算しません。指標の強弱だけで為替の方向は断定しません。
 
-確認できた主な公表：FRB「Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank」 ／ BLS「Major Economic Indicators Latest Numbers」 ／ BoE「Banknote imagery advisory group minutes – 15 July 2026」。
+確認できた主な公表：ECB「Christine Lagarde: IMFC Statement」 ／ FRB「Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank」 ／ BLS「Major Economic Indicators Latest Numbers」。
 
 USD/JPY｜短期：判定保留｜未取得/期限経過
 
