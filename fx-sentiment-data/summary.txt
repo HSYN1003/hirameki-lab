@@ -1,6 +1,6 @@
-通貨心理レーダー｜2026-10-17T09:20:39+00:00
+通貨心理レーダー｜2026-10-17T13:42:46+00:00
 
-鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有0ペア、指標2件、ニュース6件。
+鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有0ペア、指標1件、ニュース6件。
 
 新鮮な投資家保有がないため、参加者の一致・不一致は判定しません。
 
@@ -11,8 +11,6 @@
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
 米PPI 総合/最終需要（2026-09・mom・SA）実績+1.3%。発表前保存の市場予想がないため、サプライズは計算しません。指標の強弱だけで為替の方向は断定しません。
-
-米CPI 総合/最終需要（2026-09・mom・SA）実績+0.6%。発表前保存の市場予想がないため、サプライズは計算しません。指標の強弱だけで為替の方向は断定しません。
 
 確認できた主な公表：ECB「Christine Lagarde: IMFC Statement」 ／ FRB「Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank」 ／ BLS「Major Economic Indicators Latest Numbers」。
 
