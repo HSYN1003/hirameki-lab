@@ -1,4 +1,4 @@
-通貨心理レーダー｜2026-10-20T04:49:16+00:00
+通貨心理レーダー｜2026-10-20T10:04:01+00:00
 
 鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有0ペア、指標0件、ニュース3件。
 
@@ -10,7 +10,7 @@
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
-確認できた主な公表：BLS「Major Economic Indicators Latest Numbers」 ／ ECB「Frank Elderson: From climate and nature risks to economic resilience and competitiveness」 ／ ECB「Christine Lagarde: IMFC Statement」。
+確認できた主な公表：ECB「Frank Elderson: Interview with Die Presse」 ／ BLS「Major Economic Indicators Latest Numbers」 ／ ECB「Frank Elderson: From climate and nature risks to economic resilience and competitiveness」。
 
 USD/JPY｜短期：判定保留｜未取得/期限経過
 
