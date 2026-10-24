@@ -1,4 +1,4 @@
-通貨心理レーダー｜2026-10-24T05:51:57+00:00
+通貨心理レーダー｜2026-10-24T10:58:08+00:00
 
 鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有6ペア、指標0件、ニュース4件。
 
@@ -10,7 +10,7 @@
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
-確認できた主な公表：ECB「ECB Consumer Expectations Survey results – September 2026」 ／ BoE「Regulators unveil plans to simplify Senior Manager and Certification Regime」 ／ BoE「Minutes of the Securities Lending Committee meeting – September 2026」。
+確認できた主な公表：ECB「Piero Cipollone: Interview with Milano Finanza」 ／ ECB「ECB Consumer Expectations Survey results – September 2026」 ／ BoE「Regulators unveil plans to simplify Senior Manager and Certification Regime」。
 
 USD/JPY｜短期：判定保留｜区分間で逆向き
 
