@@ -1,4 +1,4 @@
-通貨心理レーダー｜2026-10-26T06:12:12+00:00
+通貨心理レーダー｜2026-10-26T13:00:51+00:00
 
 鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有6ペア、指標0件、ニュース3件。
 
@@ -10,7 +10,7 @@
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
-確認できた主な公表：ECB「Frank Elderson: Taking action for nature – investing in economic resilience and prosperity」 ／ ECB「Piero Cipollone: Interview with Milano Finanza」 ／ ECB「ECB Consumer Expectations Survey results – September 2026」。
+確認できた主な公表：ECB「Survey on the Access to Finance of Enterprises: lending conditions tightened」 ／ ECB「Frank Elderson: Taking action for nature – investing in economic resilience and prosperity」 ／ ECB「Piero Cipollone: Interview with Milano Finanza」。
 
 USD/JPY｜短期：判定保留｜区分間で逆向き
 
