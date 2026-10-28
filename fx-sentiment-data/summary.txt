@@ -1,6 +1,6 @@
-通貨心理レーダー｜2026-10-27T21:18:30+00:00
+通貨心理レーダー｜2026-10-28T01:20:32+00:00
 
-鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有6ペア、指標0件、ニュース3件。
+鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有6ペア、指標0件、ニュース5件。
 
 投資家の直接保有を確認できた6ペア中、資産運用とレバレッジ型が逆向きなのは5ペア。
 
@@ -10,7 +10,7 @@
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
-確認できた主な公表：ECB「October 2026 euro area bank lending survey」 ／ ECB「Survey on the Access to Finance of Enterprises: lending conditions tightened」 ／ ECB「Frank Elderson: Taking action for nature – investing in economic resilience and prosperity」。
+確認できた主な公表：日本銀行「Indicators for Core CPI」 ／ ECB「October 2026 euro area bank lending survey」 ／ 日本銀行「Services Producer Price Index (Sept.)」。
 
 USD/JPY｜短期：判定保留｜区分間で逆向き
 
