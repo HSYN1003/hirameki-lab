@@ -7,8 +7,8 @@
       "source": "bls",
       "publisher": "BLS",
       "url": "https://www.bls.gov/bls/",
-      "observed_at": "2026-10-20T14:02:35+00:00",
-      "published_at": "2026-10-20T14:02:35+00:00",
+      "observed_at": "2026-10-28T14:01:13+00:00",
+      "published_at": "2026-10-28T14:01:13+00:00",
       "date_precision": "second",
       "payload": {
         "title": "Major Economic Indicators Latest Numbers",
@@ -21,12 +21,12 @@
         "importance": "未分類"
       },
       "provenance": "https_validated",
-      "fetched_at": "2026-10-20T15:05:24+00:00",
-      "raw_sha256": "271c7f60834e086ad943d30718933dd1af4cc86d0d2a45684cdf3b926c1c5d77",
+      "fetched_at": "2026-10-28T16:01:32+00:00",
+      "raw_sha256": "b0a8b790c8481a2d5ae6e2a619c5e74ee7a970955a5fa23fc97bd0837dd37223",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-20T15:05:24+00:00",
-      "semantic_hash": "485218446869b4abd2c2df232b1d1b6fd8f093060070e3e867a8d43223c326de",
-      "version": 4
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
+      "semantic_hash": "554a62c07f1060ec0f1048e763878f74190043b0a0f3ee9de9ed92c96cce6a44",
+      "version": 5
     },
     "f3830ebbd151be49ceb8f6ab": {
       "id": "f3830ebbd151be49ceb8f6ab",
@@ -51,7 +51,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "e14b775e46f77f117f5700dc84a7d320951f9f83da75841b513b68de144c262f",
       "version": 1
     },
@@ -78,7 +78,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "a529596696efd59af52803418cdbcc071f2c043bf172483915638b510b274cc6",
       "version": 1
     },
@@ -105,7 +105,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "e58ca492d5138220741bcf13bbf4b021138d122321d6e1731f5182a2b06f1318",
       "version": 1
     },
@@ -132,7 +132,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "8d35e653a4f81a00e1e8df17d075b531a38e6c055d85374686dddf4a6f124a4a",
       "version": 1
     },
@@ -159,7 +159,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "a1147a06098386dd824c4836e0b6f071d32a5110b1dc74aa54639869651b899e",
       "version": 1
     },
@@ -186,7 +186,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "09f60c3783ebd8ac42c0bd4d0ca74de7e0f279966dead18a9f52b2ea193d0c80",
       "version": 1
     },
@@ -213,7 +213,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "6ab6adddfe08a8cfb4fba61912a0a09aafe77d38ff91d0eba0092d63467cc363",
       "version": 1
     },
@@ -240,7 +240,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "71fa861dff1b1c8fb8b282d7954030839c6511c0ba79c67c192491e8aeb36f37",
       "version": 1
     },
@@ -267,7 +267,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "62ab9b2c0140d72ce6e5593a9cf58bb8dee6fb9bc6199929a8fb42d046f79c5e",
       "version": 1
     },
@@ -294,7 +294,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "21a7ff906506b1fb22abd29a3519c704c22ea405a95de1b86192604c660de8d8",
       "version": 1
     },
@@ -321,7 +321,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "38e58aed4c25f202452756255a54a25b202153954ca59cbe1a570f93acbfedcd",
       "version": 1
     },
@@ -348,7 +348,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "90248838065f818a4f1f96f8b2ae469f335970972ba7ad4a094452c67d553321",
       "version": 1
     },
@@ -375,7 +375,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "63f7593d3aea34613399d58f3a76dae42d08bb5f83c5595e46695fba93460da5",
       "version": 1
     },
@@ -402,7 +402,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "3898ad27f6e62cb304e746ffdf23cf37d7fc2fcef60440554f31146d851e3e84",
       "version": 1
     },
@@ -429,7 +429,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "84432d1b2d61d50e3757de32bbabc1ac55734e5895e31719148da9a950759321",
       "version": 1
     },
@@ -456,7 +456,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "091781359c9d8d836ce021357ed1be5142c5348f044573e266777eb18a62bc72",
       "version": 1
     },
@@ -483,7 +483,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "d0b4529c39a55b9fb5212887d690775273ff56f7835bd3576e696e24e6e5db13",
       "version": 1
     },
@@ -510,7 +510,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "7680a6f0ceefffb382d28118c6664a2cf97321e87a6a05bf50a2bcb6abe47246",
       "version": 1
     },
@@ -537,7 +537,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "12c6c81878d4458d005b35c2e66df5f49029e3ff41cb4e02f59bf64dc59a8000",
       "version": 1
     },
@@ -564,7 +564,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "58904e25f98194031e4025b2494bad6a339c28891f44093b6a4063949238fc88",
       "version": 1
     },
@@ -591,7 +591,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "898dcad9f2d218cec73abbb740da31026b8ad26384b0a3cb9da03eb30a12a5a1",
       "version": 1
     },
@@ -618,7 +618,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "843487ec21066213605836fffbcaf054ebb10f3ab3af1ffe5ae11e12602afbed",
       "version": 1
     },
@@ -645,7 +645,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "901153ef9dc39535f04ef7859241fc0632566e57d179492182c8c728fa6dab06",
       "version": 1
     },
@@ -672,7 +672,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "e2e5a2494b073ebf03c9ce8da7b86a301dfc675d972ea0da8beae7c12ff30d21",
       "version": 1
     },
@@ -699,7 +699,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "eb193042c2d7a22268cddb8d0c3644471f512c714c5309d54ff32ca2381a96f2",
       "version": 1
     },
@@ -726,7 +726,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "53d24cea6fc97a6bd0ba4ce5174ef9d22637f896cb6731940fa0dfcfc32e1ba7",
       "version": 1
     },
@@ -753,7 +753,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "d4e80b350769d25f23b2afc05aa000dd1c03b82055c2f2b399baf4dc4b0a9d9d",
       "version": 1
     },
@@ -780,7 +780,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "b63202ddd06529d416daac493c9b75d4e01b6aefd79bb72afe97918b6e72b228",
       "version": 1
     },
@@ -807,7 +807,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "402b5b8f271a2981cdd0905f0c12a39c61f01dfdff1f75126f6b82cf302edf3b",
       "version": 1
     },
@@ -834,7 +834,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "091ef416d295f4055575e0e310098b714a6c8a661d82e9cd699e4571638fad16",
       "version": 1
     },
@@ -861,7 +861,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "4c5889c6f8d9f694fff7a130d12f44b200d8eb9d4adec701331c306cef83dc57",
       "version": 1
     },
@@ -888,7 +888,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "f4790a7e909eb085a32dccbe6cc19f6e61fb9a647b674f2830618ffec716f857",
       "version": 1
     },
@@ -915,7 +915,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "0da8863f43c788ba653ec765e7e41731ce3f63cbea3d3ba6004db6a2d21f09d0",
       "version": 1
     },
@@ -942,7 +942,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "b8805165f9470f0a3ff4c5135b996fae93f7f2c1cead86a67abe4118c148781a",
       "version": 1
     },
@@ -969,7 +969,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "4465be67df22fc357c8bf8788232a5fe70f88c453ebcd1229e34f8f41aa21ef7",
       "version": 1
     },
@@ -996,7 +996,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "fb8996c0dad5cf73a173e2ef14e8f6174f0f71a5b603db6d8e0e1ea1c7829a53",
       "version": 1
     },
@@ -1023,7 +1023,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "7b45a77f72b82fa0275140bb78f6e08cb79159bce4ee635f75540a576ebb7785",
       "version": 1
     },
@@ -1050,7 +1050,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "a054593b464f74c3a3a9278f4e2bd2471a664797a36a3e663f44b0211eaa70c6",
       "version": 1
     },
@@ -1077,7 +1077,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "29c86a1abfbc8c81eeb83da3661c7066250a87fc31ef60c92931b075b44ab16a",
       "version": 1
     },
@@ -1104,7 +1104,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "d514da1a4769879d9af49ee2207345a0fe676c28e8bbb1073e6655c59aa92ab0",
       "version": 1
     },
@@ -1131,7 +1131,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "a7815e3a120a8dca69423f9109e7ced9cbac35834c853d67f4739142c2501a67",
       "version": 1
     },
@@ -1158,7 +1158,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "9a0006004907525b028b0e6bbea74e2b072ab334c58f83e1f37f357a15d5443c",
       "version": 1
     },
@@ -1185,7 +1185,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "511f90b8297218e2b5065f3201814cca340e1b859c4dc5b57f006307329d3301",
       "version": 1
     },
@@ -1212,7 +1212,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "0907cd6cfc75c5252961111daab5fb214c276dc3d50483de335da513b6c9735d",
       "version": 1
     },
@@ -1239,7 +1239,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "96a2c4f20078849ce668c0a6db27d1f07983a6d614192b7dc7fe291e1931c263",
       "version": 1
     },
@@ -1266,7 +1266,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "08fa107e45e328c86537a190044fa07a9ecfbc58cc6f6cba1727ac24070031c2",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "428dffd0f39b947252d2c3c7e2aff7f83096882e5754987b28acaa70ae4e7476",
       "version": 1
     },
@@ -1407,7 +1407,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "b9e7ff678e532a28566b5e2a5915a743f99dd3cd1795d85c9d301690578f6843",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "6906088977921a6b3d15940a63a3fb9dd0c3063bff2f763f01792bcb92a2ed47",
       "version": 1
     },
@@ -1434,7 +1434,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "130aeb5912ef6f960827d1832882bd979708a0503db55b4c2eb84229ce7a4ef8",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "50b1245aa82e9554cdc5d9ea615adc33e202731e00c844d666021d2ba10c777c",
       "version": 1
     },
@@ -1461,7 +1461,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "130aeb5912ef6f960827d1832882bd979708a0503db55b4c2eb84229ce7a4ef8",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "c44d45819b6797b06bdd2fd70b3ca9453c9300d7d475581cbc19aa0c31a02e34",
       "version": 1
     },
@@ -1488,7 +1488,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "130aeb5912ef6f960827d1832882bd979708a0503db55b4c2eb84229ce7a4ef8",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "648c66c5db9ba5c7c4cafeb5fdc1d461db4fd1980e4a66b9f5e2e80c96f30d00",
       "version": 1
     },
@@ -1515,7 +1515,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "130aeb5912ef6f960827d1832882bd979708a0503db55b4c2eb84229ce7a4ef8",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "2c8edc23105be19e296a675bea3de28585a65e026dcad5a96af61c06a895f1d3",
       "version": 1
     },
@@ -1542,7 +1542,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "130aeb5912ef6f960827d1832882bd979708a0503db55b4c2eb84229ce7a4ef8",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "e939d7f1d6201499a88703da3662918249a70465c247721e65349edb80b21b56",
       "version": 1
     },
@@ -2404,7 +2404,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "238d3d2294d131e8a8730fb6fc7a8fca2caf38c7ab046f8d68f833c7f3315585",
       "version": 1
     },
@@ -2430,7 +2430,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "ec2b0207cd02c3175dc8f0bb12889dcbbb240ef88f8227b1346e219984fbf5da",
       "version": 1
     },
@@ -2456,7 +2456,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "a9425c91f8e8ffd562699180fe50b1f4d5d25667425169b5a4725dce5c675d55",
       "version": 1
     },
@@ -2482,7 +2482,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "12565fdc717666eefd13a661b8a0e753d1531e0a86bd4434f03aac5bfea0e996",
       "version": 1
     },
@@ -2508,7 +2508,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "581a5f9f0e3c5515fc3adaf51308ab96432aabbd0e8af239ed87910827f93d85",
       "version": 1
     },
@@ -2560,7 +2560,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "af7ef299af18906e03bf63e68f25f4264ef933e28c63d03b3feba851551f0a56",
       "version": 1
     },
@@ -2586,7 +2586,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "33ef5fbcc9d5f49670b52f51126d80181b5e631b2a2a03c472301bec3925abb5",
       "version": 1
     },
@@ -2612,7 +2612,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "8b9666de51facae47a2a824a1455eaf2f85a0c480f5a80fc6fe8ce33e8fe38fb",
       "version": 1
     },
@@ -2638,7 +2638,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "6a620a9e175aa9d941ea54c1b30fe719a0fc109e6c2b24040f9f605093b6d24a",
       "version": 1
     },
@@ -2664,7 +2664,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "6accf6e64a8cec43831702ab16511eb4bc9645046794ea0345bdadffe2bd76cc",
       "version": 1
     },
@@ -2716,7 +2716,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "75a05509cdafee9e8aa1e903472504c3c204df2e3af7344ff7c573fdb7af6aef",
       "version": 1
     },
@@ -2742,7 +2742,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "637df557378666edf00df7eb259cd7de4344f1ec386ed2cfc23460c48d411e5b",
       "version": 1
     },
@@ -2768,7 +2768,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "bd35d232f2ec179e67f81d059e63d0ff06a30169652e55f8428dd92ca2957e4c",
       "version": 1
     },
@@ -2794,7 +2794,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "c0db45a7afab42223993e94b1a5f4b6602a1beead665d731d68a2a175215df3a",
       "version": 1
     },
@@ -2820,7 +2820,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "70c10741d3f5201dc41e6b68cabae3c5887c7d0d6a396ab47b78dc11fb6d86e7",
       "version": 1
     },
@@ -2872,7 +2872,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "fb8d6fcfdeb7f0b00d62ee1e4996d6cda8b56f32679e118b5c454f8eeaed101a",
       "version": 1
     },
@@ -2898,7 +2898,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "5382ec34adf66cdbb13cd51c2d4a4c71b61445f492e77de0e90f0c39c19ec841",
       "version": 1
     },
@@ -2924,7 +2924,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "2411a52fcad3b46b995e0e6ab909502c027ff341f8b83b2e4e11bdbb897fe77a",
       "version": 1
     },
@@ -2950,7 +2950,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "6bdf19910be05dcbd606658fe5b75fd70393667665b209971f891a8eecd4447a",
       "version": 1
     },
@@ -2976,7 +2976,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "c61d0b3ac5eeba06d36fb275271f731b72f587f323fc4bbbfc8a92d0ff810ed0",
       "version": 1
     },
@@ -3028,7 +3028,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "bfd33ea26902b17c7a1efa97c55de5042d3e1992f6ccf168748d5b2ba2f48498",
       "version": 1
     },
@@ -3054,7 +3054,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "36ac08e44032fad55e7816cae423613285dd51572e7c5dd8c4cc019a76ba5f1f",
       "version": 1
     },
@@ -3080,7 +3080,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "1cfddbce99a9458813d78d2f5f0dbf10a5eb5a918b9c48770e9e67e20fc9ef06",
       "version": 1
     },
@@ -3106,7 +3106,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "ddca6af3197f3b9bb1975d5bb447ea7d5264167d859423039f46d3e5a9612356",
       "version": 1
     },
@@ -3132,7 +3132,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "99653d8b965320c384b0bc561cc7044f9e39a9285d37b1c930e4faf340a6a749",
       "version": 1
     },
@@ -3184,7 +3184,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "2f59f636604424c0893e923ea20ba92c871d4377471455059487a0aac48faa58",
       "version": 1
     },
@@ -3210,7 +3210,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "eb0cb74218442dd05e94b4a280d4e53fd96a6b06a5fdd7aa901d9ca7200fe0e9",
       "version": 1
     },
@@ -3236,7 +3236,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "4ac5d0fe03b12e75bec6c375ce8b51291b8d13d579250b32a5968d3550645db2",
       "version": 1
     },
@@ -3262,7 +3262,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "6e3ea5f96d8a53415227ffa1c3b34469deb9ad8f74571fad77aa67325c4020ac",
       "version": 1
     },
@@ -3288,7 +3288,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "444f4375862dc2012501e5f6f5abc381786ae6b1141b8367991bccfdc00d4320",
       "version": 1
     },
@@ -3418,7 +3418,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "15dd81e239ae708db17972acc087f8c3de60eb62255d8682ba8e4d6be38f0b18",
       "version": 1
     },
@@ -3444,7 +3444,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "787964fe3e8b1d2fba62b8bf2b8aec4ead52ae17ec33e0b56eb86ac3aa4b51fa",
       "version": 1
     },
@@ -3470,7 +3470,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "a1722db4597d505ec3c5d6bd1ccd34a74183d649b7b169655eaf9bf1794e7c87",
       "version": 1
     },
@@ -3496,7 +3496,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "8f5adf0764d11a094646993622ed3ae67a0ee71007703d7cc8c8283e1723fa06",
       "version": 1
     },
@@ -3522,7 +3522,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "f5616bf7cf7584404d609ef04081bfcf0a8897f7209f8f3bb5d3aaed853cc3e9",
       "version": 1
     },
@@ -3548,7 +3548,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "f2c92415cdec7893670c9a27530d4d4ab91ca61339f81360e91959cccff5f4f6",
       "version": 1
     },
@@ -3574,7 +3574,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "31003c1cf960dcc461f7ab56b8897251077e80b42653c944d524a2b80c9bde5a",
       "version": 1
     },
@@ -3600,7 +3600,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "2eb74c56075c8fde3e538ae0bb4b999b99ad1b6f7a154f47709ad762a016a355",
       "version": 1
     },
@@ -3626,7 +3626,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "7c8dd3f90bd7cbf0477f8fc1df8e508b4f607b921a72dc7d753e21b6e0a64edd",
       "version": 1
     },
@@ -3652,7 +3652,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "9aae643f4934f23975fa5b5c402c473c7efb77a7e869e94bbfc92f3e72299fed",
       "version": 1
     },
@@ -3678,7 +3678,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "82eeab4829c70353f26f8f76e6ea44a5011e90dae203d09b959421e53a5a2c34",
       "version": 1
     },
@@ -3704,7 +3704,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "ec12d50bfb7ce9a0af473764aa8100d428ba199d307850615d664c1e721f3008",
       "version": 1
     },
@@ -3730,7 +3730,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "74e8bb4178e17cd73eac1eb45de64de88653a74bf2ba3363d7fc80bf8b9527a6",
       "version": 1
     },
@@ -3756,7 +3756,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "560a25633109098e87a7f371feb5116f6ef30bda0e5d0454f60dc35a3f7d39d1",
       "version": 1
     },
@@ -3782,7 +3782,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "8290059cb48f773a365922ae95a75aa606b1427f098e0781737821432f8d84a4",
       "version": 1
     },
@@ -3808,7 +3808,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "c26cea08be6fadc808eedb9b51f675cae5be0e71505bd1d7917c9123b75ca894",
       "version": 1
     },
@@ -3834,7 +3834,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "f05bdf099f160458160829cc0987aa1d3fdbac84432a63df886512d8f4c3fcf0",
       "version": 1
     },
@@ -3860,7 +3860,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "9c56e5821939b149261b70dcbf585a85e985780e5991ac6293d066c984462060",
       "version": 1
     },
@@ -3886,7 +3886,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "85371a2294cdd4298f10a63a74c5edc8494e7d801834b98389091f8dab87b324",
       "version": 1
     },
@@ -3912,7 +3912,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "1ebabd63460d7398bc7fbe45b241afb614d4199f440589b094350f0723375026",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "93ffeac7ba9064b9cd69fb9174d0942c5da7fb8773de20a9618fd8738b1abea3",
       "version": 1
     },
@@ -3945,7 +3945,7 @@
       "fetched_at": "2026-10-16T06:47:59+00:00",
       "raw_sha256": "27e3fcaf11b43358bd3d604f2ec4b9070bff6700dcb57c983a82a65ccbcf2341",
       "first_seen_at": "2026-10-16T06:47:59+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "1e89daf7e56b0fa574c40bc20a77ee93802ffa4c29be930045168ca90ab4a609",
       "version": 1
     },
@@ -3999,7 +3999,7 @@
       "fetched_at": "2026-10-16T12:24:08+00:00",
       "raw_sha256": "df4dac6796b4d56a9c93d039b1f6499846e7550d2618e0b59a873abc3f539b3a",
       "first_seen_at": "2026-10-16T12:24:08+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "701f63a427f346ce89cee88787443bccf49326ea29ec9fbe123b09003eb13b08",
       "version": 1
     },
@@ -4053,7 +4053,7 @@
       "fetched_at": "2026-10-17T09:20:39+00:00",
       "raw_sha256": "597b7a7ed2ccb5e550ed8041db61934d5c7cd2e8d6d8ffa80d10317197bdeca9",
       "first_seen_at": "2026-10-17T09:20:39+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "86beb472e6bf43963fde41b4fd8bf894eda391c50a495d47a4cd61234bb294c0",
       "version": 1
     },
@@ -5457,7 +5457,7 @@
       "fetched_at": "2026-10-19T06:16:28+00:00",
       "raw_sha256": "49b171ff141edf54fe6ebc5f783b31639a13b3c382a67b9d41de91a309bfd259",
       "first_seen_at": "2026-10-19T06:16:28+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "608af294c7840b92abb5f7522c06f1c110f137caeff2e036ee46c7ac9dc94c2a",
       "version": 1
     },
@@ -5484,7 +5484,7 @@
       "fetched_at": "2026-10-20T10:04:01+00:00",
       "raw_sha256": "d68b786e93d2032dec1c500698073db5314ec874de52e1d291669967541084a6",
       "first_seen_at": "2026-10-20T10:04:01+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "f93319adc9f591a4e7e3e8c14447c10328632abb569b4c6058cfc7a9d9f577f0",
       "version": 1
     },
@@ -5511,7 +5511,7 @@
       "fetched_at": "2026-10-21T07:38:36+00:00",
       "raw_sha256": "210d6748949d948ce089e365e9c58294c113c7279f7fd07c59a498b354c97936",
       "first_seen_at": "2026-10-21T07:38:36+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "e3890498f5c59d1bfd862d8531dec12a37f76d189d248b61f6aa492bbef66704",
       "version": 1
     },
@@ -5538,7 +5538,7 @@
       "fetched_at": "2026-10-21T13:47:30+00:00",
       "raw_sha256": "14b78fe5e1ade5a2513ab028b8944144bb8ee9f592cba0a71cec007e3d31e44d",
       "first_seen_at": "2026-10-21T13:47:30+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "1e079d46159021d15b72c666c476a73a865f2a4a4265364ec7ba056950b903dc",
       "version": 1
     },
@@ -5913,7 +5913,7 @@
       "fetched_at": "2026-10-22T22:20:17+00:00",
       "raw_sha256": "04be4962e95aff0d1e747c65e9a140f7c50dbb6db2aeefc9d3855245dd3eafc5",
       "first_seen_at": "2026-10-22T22:20:17+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "492f1aec3ce63da6d9ad806c27a71a289e3f4251446e4a78787ac0390391589a",
       "version": 1
     },
@@ -5940,7 +5940,7 @@
       "fetched_at": "2026-10-23T13:25:50+00:00",
       "raw_sha256": "c908b93d74ad1c2b256b1756774b0a1bb3b75394a253cc7aa0284b23d48ae083",
       "first_seen_at": "2026-10-23T13:25:50+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "c9f5f45a7ba9475f14f846549f0ff09f6184cfeb2b8c7f010049dc85851570e2",
       "version": 1
     },
@@ -5967,7 +5967,7 @@
       "fetched_at": "2026-10-23T13:25:50+00:00",
       "raw_sha256": "d8ec0c09abdaa11f5272c0835f0bd6cbaaa4be67198aa86ef9ce816086ba2272",
       "first_seen_at": "2026-10-23T13:25:50+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "ba55cd7e79271cede4b6f0aed2aec575adf75ba561d297ad1672f4c7bb184eb2",
       "version": 1
     },
@@ -6342,7 +6342,7 @@
       "fetched_at": "2026-10-24T10:58:08+00:00",
       "raw_sha256": "829d9dc72eb711fd999ab4d05a1d1e99d815854c3f2b53c454b977b8f33bc456",
       "first_seen_at": "2026-10-24T10:58:08+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "f740cb2d904a1d4e01161f074958aaba61af99a9e2378d32e7b4735ceba7d25e",
       "version": 1
     },
@@ -6369,7 +6369,7 @@
       "fetched_at": "2026-10-26T06:12:12+00:00",
       "raw_sha256": "37920a83ad836bdd84edac73f081f6946935ae2149d045f94f21133e71c82456",
       "first_seen_at": "2026-10-26T06:12:12+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "e68da9d07e929778359b4f2d98cd69caea4063a729ee7511a7104f2297357893",
       "version": 1
     },
@@ -6396,7 +6396,7 @@
       "fetched_at": "2026-10-26T13:00:51+00:00",
       "raw_sha256": "c24a1dcf2f7f527691313a1c8f5a619bc846bcec9fc2ef4c51833c5b894dc6ea",
       "first_seen_at": "2026-10-26T13:00:51+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "3e0816b5766e974403cf6e9d052473bb63fa3feaffe562b5603f1614ac2a4c19",
       "version": 1
     },
@@ -6423,7 +6423,7 @@
       "fetched_at": "2026-10-27T10:33:05+00:00",
       "raw_sha256": "4f0b5932735871edbb7fdd8b3d9b1fa753022e511109f8665e3756f5f17eb301",
       "first_seen_at": "2026-10-27T10:33:05+00:00",
-      "last_seen_at": "2026-10-28T08:29:18+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
       "semantic_hash": "7e76f437a59fd89315f86b230c2d35aa0646f08aef6aefaa4f917f1296928b67",
       "version": 1
     },
@@ -6561,68 +6561,95 @@
       "last_seen_at": "2026-10-28T01:20:32+00:00",
       "semantic_hash": "d073e98bd446fcce4a8597b737a7a4177d19dc58dd269b37058fb56deb50c426",
       "version": 1
+    },
+    "33c82ffa63da78bde921cf0d": {
+      "id": "33c82ffa63da78bde921cf0d",
+      "kind": "news",
+      "source": "boe",
+      "publisher": "BoE",
+      "url": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
+      "observed_at": "2026-10-28T14:16:49+00:00",
+      "published_at": "2026-10-28T14:16:49+00:00",
+      "date_precision": "second",
+      "payload": {
+        "title": "Remit for the Monetary Policy Committee - October 2026",
+        "currencies": [
+          "GBP"
+        ],
+        "updated_at": null,
+        "direction": null,
+        "role": "official_release",
+        "importance": "高"
+      },
+      "provenance": "https_validated",
+      "fetched_at": "2026-10-28T16:01:32+00:00",
+      "raw_sha256": "ebcdd6385640b97c2ebffc85b537594af55ae9bd745cfe2636d241e7ac05ff15",
+      "first_seen_at": "2026-10-28T16:01:32+00:00",
+      "last_seen_at": "2026-10-28T16:01:32+00:00",
+      "semantic_hash": "768390c07d059234e8fe4197b9c32c5b60280597a93c11d6c8859b7c11c8875b",
+      "version": 1
     }
   },
   "sources": {
     "bls": {
       "name": "BLS・公表資料",
       "url": "https://www.bls.gov/feed/bls_latest.rss",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
-      "status": "not_modified",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
+      "status": "validated_fresh",
       "error": null,
-      "http_status": 304,
+      "http_status": 200,
       "next_retry_at": null,
-      "attempts": 68,
+      "attempts": 69,
       "new_records": 0,
-      "revisions": 0,
-      "record_count": 0,
-      "last_transport_success_at": "2026-10-28T08:29:18+00:00",
+      "revisions": 1,
+      "record_count": 1,
+      "last_transport_success_at": "2026-10-28T16:01:32+00:00",
       "consecutive_failures": 0,
-      "sha256": "271c7f60834e086ad943d30718933dd1af4cc86d0d2a45684cdf3b926c1c5d77",
-      "etag": "\"8056d4ab9b60dd1:0\"",
-      "last_modified": "Tue, 20 Oct 2026 14:02:41 GMT",
-      "newest_observation": "2026-10-20T14:02:35+00:00",
-      "last_validated_at": "2026-10-20T15:05:24+00:00",
-      "last_content_change_at": "2026-10-20T15:05:24+00:00",
-      "fresh_records": 0,
+      "sha256": "b0a8b790c8481a2d5ae6e2a619c5e74ee7a970955a5fa23fc97bd0837dd37223",
+      "etag": "\"0e5bd0e466dd1:0\"",
+      "last_modified": "Wed, 28 Oct 2026 14:01:22 GMT",
+      "newest_observation": "2026-10-28T14:01:13+00:00",
+      "last_validated_at": "2026-10-28T16:01:32+00:00",
+      "last_content_change_at": "2026-10-28T16:01:32+00:00",
+      "fresh_records": 1,
       "document_url": "https://www.bls.gov/feed/bls_latest.rss"
     },
     "boe": {
       "name": "BoE・公表資料",
       "url": "https://www.bankofengland.co.uk/rss/news",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
-      "status": "validated_but_stale",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
+      "status": "validated_fresh",
       "error": null,
       "http_status": 200,
       "next_retry_at": null,
-      "attempts": 68,
-      "new_records": 0,
+      "attempts": 69,
+      "new_records": 1,
       "revisions": 0,
       "record_count": 50,
-      "last_transport_success_at": "2026-10-28T08:29:18+00:00",
+      "last_transport_success_at": "2026-10-28T16:01:32+00:00",
       "consecutive_failures": 0,
-      "sha256": "6b17d1c2015d14e266ef4a329d85aa4a812d70518d4a57fe8176c33dd7decab7",
+      "sha256": "ebcdd6385640b97c2ebffc85b537594af55ae9bd745cfe2636d241e7ac05ff15",
       "etag": null,
       "last_modified": null,
-      "newest_observation": "2026-10-22T20:00:00+00:00",
-      "last_validated_at": "2026-10-28T08:29:18+00:00",
-      "last_content_change_at": "2026-10-23T13:25:50+00:00",
-      "fresh_records": 0,
+      "newest_observation": "2026-10-28T14:16:49+00:00",
+      "last_validated_at": "2026-10-28T16:01:32+00:00",
+      "last_content_change_at": "2026-10-28T16:01:32+00:00",
+      "fresh_records": 1,
       "document_url": "https://www.bankofengland.co.uk/rss/news"
     },
     "boj": {
       "name": "日銀・公表資料",
       "url": "https://www.boj.or.jp/en/rss/whatsnew.xml",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "empty_valid_response",
       "error": null,
       "http_status": 200,
       "next_retry_at": null,
-      "attempts": 68,
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0,
-      "last_transport_success_at": "2026-10-28T08:29:18+00:00",
+      "last_transport_success_at": "2026-10-28T16:01:32+00:00",
       "consecutive_failures": 0,
       "sha256": "b0deedf31d124da450fd681942c58f3418c8b66386c3d3683b935074b09e1e30",
       "etag": null,
@@ -6636,17 +6663,17 @@
     "cftc": {
       "name": "CFTC・6市場の区分別保有",
       "url": "https://www.cftc.gov/dea/options/financial_lof.htm",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "not_modified",
       "error": null,
       "http_status": 304,
       "next_retry_at": null,
-      "attempts": 68,
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0,
       "consecutive_failures": 0,
-      "last_transport_success_at": "2026-10-28T08:29:18+00:00",
+      "last_transport_success_at": "2026-10-28T16:01:32+00:00",
       "sha256": "742d18471fbf6c2eff5924c58a04209380d29b11ff1b3efa9328e2126c74e79c",
       "etag": null,
       "last_modified": "Fri, 23 Oct 2026 19:28:07 GMT",
@@ -6659,22 +6686,22 @@
     "cpi": {
       "name": "米CPI・公表値",
       "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "validated_but_stale",
       "error": null,
       "http_status": 200,
       "next_retry_at": null,
-      "attempts": 68,
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 1,
-      "last_transport_success_at": "2026-10-28T08:29:18+00:00",
+      "last_transport_success_at": "2026-10-28T16:01:32+00:00",
       "consecutive_failures": 0,
       "sha256": "b9e7ff678e532a28566b5e2a5915a743f99dd3cd1795d85c9d301690578f6843",
       "etag": null,
       "last_modified": null,
       "newest_observation": "2026-10-14T12:30:00+00:00",
-      "last_validated_at": "2026-10-28T08:29:18+00:00",
+      "last_validated_at": "2026-10-28T16:01:32+00:00",
       "last_content_change_at": "2026-10-16T06:47:59+00:00",
       "fresh_records": 0,
       "document_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
@@ -6682,22 +6709,22 @@
     "ecb": {
       "name": "ECB・公表資料",
       "url": "https://www.ecb.europa.eu/rss/press.html",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "validated_fresh",
       "error": null,
       "http_status": 200,
       "next_retry_at": null,
-      "attempts": 68,
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 15,
-      "last_transport_success_at": "2026-10-28T08:29:18+00:00",
+      "last_transport_success_at": "2026-10-28T16:01:32+00:00",
       "consecutive_failures": 0,
-      "sha256": "4f0b5932735871edbb7fdd8b3d9b1fa753022e511109f8665e3756f5f17eb301",
-      "etag": "\"myra-f8d8c332\"",
+      "sha256": "cfbf293690dd624acbc5b86c024f868a5f86d22dc16cf2fbd6f4e32576a6f88c",
+      "etag": "\"myra-faad9f8e\"",
       "last_modified": null,
       "newest_observation": "2026-10-27T00:00:00+00:00",
-      "last_validated_at": "2026-10-28T08:29:18+00:00",
+      "last_validated_at": "2026-10-28T16:01:32+00:00",
       "last_content_change_at": "2026-10-27T10:33:05+00:00",
       "fresh_records": 3,
       "document_url": "https://www.ecb.europa.eu/rss/press.html"
@@ -6705,17 +6732,17 @@
     "fed": {
       "name": "FRB・公表資料",
       "url": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
-      "status": "failed",
-      "error": "HTTP 404",
-      "http_status": 404,
-      "next_retry_at": "2026-10-28T09:29:18+00:00",
-      "attempts": 68,
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
+      "status": "not_modified",
+      "error": null,
+      "http_status": 304,
+      "next_retry_at": null,
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0,
-      "last_transport_success_at": "2026-10-28T01:20:32+00:00",
-      "consecutive_failures": 1,
+      "last_transport_success_at": "2026-10-28T16:01:32+00:00",
+      "consecutive_failures": 0,
       "sha256": "529e889a916423a3979c1bebdd94c2b8d402889700d8c85cc4d125b7f538d327",
       "etag": "\"dae62af7f5ddd1:0\"",
       "last_modified": "Fri, 16 Oct 2026 15:00:18 GMT",
@@ -6728,22 +6755,22 @@
     "ing": {
       "name": "ING・予想表",
       "url": "https://think.ing.com/forecasts/",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "validated_but_stale",
       "error": null,
       "http_status": 200,
       "next_retry_at": null,
-      "attempts": 68,
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 50,
-      "last_transport_success_at": "2026-10-28T08:29:18+00:00",
+      "last_transport_success_at": "2026-10-28T16:01:32+00:00",
       "consecutive_failures": 0,
-      "sha256": "db13f9ba8e713ad35183698569827151ba9e366fd6c32b4baa228cbdeceebd03",
+      "sha256": "1f1eb7c4b8c79a0269e0f4f8783cc54d32560abce4159b3221c90678ece0d816",
       "etag": null,
-      "last_modified": "Wed, 28 Oct 2026 08:28:55 GMT",
+      "last_modified": "Wed, 28 Oct 2026 15:52:04 GMT",
       "newest_observation": null,
-      "last_validated_at": "2026-10-28T08:29:18+00:00",
+      "last_validated_at": "2026-10-28T16:01:32+00:00",
       "last_content_change_at": "2026-10-16T06:47:59+00:00",
       "fresh_records": 0,
       "document_url": "https://think.ing.com/forecasts/"
@@ -6751,36 +6778,36 @@
     "mufg": {
       "name": "MUFG・月次予想表",
       "url": "https://www.mufgresearch.com/fx/",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "format_error",
       "error": "ValueError: latest_document_link_not_found",
       "http_status": null,
-      "next_retry_at": "2026-10-28T12:29:18+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-28T20:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0,
-      "consecutive_failures": 51
+      "consecutive_failures": 52
     },
     "ppi": {
       "name": "米PPI・公表値",
       "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "validated_but_stale",
       "error": null,
       "http_status": 200,
       "next_retry_at": null,
-      "attempts": 68,
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 1,
-      "last_transport_success_at": "2026-10-28T08:29:18+00:00",
+      "last_transport_success_at": "2026-10-28T16:01:32+00:00",
       "consecutive_failures": 0,
       "sha256": "27e3fcaf11b43358bd3d604f2ec4b9070bff6700dcb57c983a82a65ccbcf2341",
       "etag": null,
       "last_modified": null,
       "newest_observation": "2026-10-15T12:30:00+00:00",
-      "last_validated_at": "2026-10-28T08:29:18+00:00",
+      "last_validated_at": "2026-10-28T16:01:32+00:00",
       "last_content_change_at": "2026-10-16T06:47:59+00:00",
       "fresh_records": 0,
       "document_url": "https://www.bls.gov/news.release/ppi.nr0.htm"
@@ -6788,16 +6815,16 @@
     "rba": {
       "name": "RBA・公表資料",
       "url": "https://www.rba.gov.au/rss/rss-cb-media-releases.xml",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "not_modified",
       "error": null,
       "http_status": 304,
       "next_retry_at": null,
-      "attempts": 68,
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0,
-      "last_transport_success_at": "2026-10-28T08:29:18+00:00",
+      "last_transport_success_at": "2026-10-28T16:01:32+00:00",
       "consecutive_failures": 0,
       "sha256": "517e44a2074428bab0fd521e662de3d19d462109a4122cd949c037e2540025d9",
       "etag": null,
@@ -6811,12 +6838,12 @@
     "social_AUDJPY": {
       "name": "Bluesky・AUD/JPY",
       "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=AUDJPY&sort=latest&limit=25",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "cooldown",
       "error": "同じ公開APIの認証/利用制限により停止",
       "http_status": 403,
-      "next_retry_at": "2026-10-28T10:33:05+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-29T16:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0
@@ -6824,12 +6851,12 @@
     "social_AUDUSD": {
       "name": "Bluesky・AUD/USD",
       "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=AUDUSD&sort=latest&limit=25",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "cooldown",
       "error": "同じ公開APIの認証/利用制限により停止",
       "http_status": 403,
-      "next_retry_at": "2026-10-28T10:33:05+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-29T16:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0
@@ -6837,12 +6864,12 @@
     "social_EURAUD": {
       "name": "Bluesky・EUR/AUD",
       "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=EURAUD&sort=latest&limit=25",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "cooldown",
       "error": "同じ公開APIの認証/利用制限により停止",
       "http_status": 403,
-      "next_retry_at": "2026-10-28T10:33:05+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-29T16:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0
@@ -6850,12 +6877,12 @@
     "social_EURGBP": {
       "name": "Bluesky・EUR/GBP",
       "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=EURGBP&sort=latest&limit=25",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "cooldown",
       "error": "同じ公開APIの認証/利用制限により停止",
       "http_status": 403,
-      "next_retry_at": "2026-10-28T10:33:05+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-29T16:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0
@@ -6863,12 +6890,12 @@
     "social_EURJPY": {
       "name": "Bluesky・EUR/JPY",
       "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=EURJPY&sort=latest&limit=25",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "cooldown",
       "error": "同じ公開APIの認証/利用制限により停止",
       "http_status": 403,
-      "next_retry_at": "2026-10-28T10:33:05+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-29T16:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0
@@ -6876,12 +6903,12 @@
     "social_EURUSD": {
       "name": "Bluesky・EUR/USD",
       "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=EURUSD&sort=latest&limit=25",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "cooldown",
       "error": "同じ公開APIの認証/利用制限により停止",
       "http_status": 403,
-      "next_retry_at": "2026-10-28T10:33:05+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-29T16:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0
@@ -6889,12 +6916,12 @@
     "social_GBPAUD": {
       "name": "Bluesky・GBP/AUD",
       "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=GBPAUD&sort=latest&limit=25",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "cooldown",
       "error": "同じ公開APIの認証/利用制限により停止",
       "http_status": 403,
-      "next_retry_at": "2026-10-28T10:33:05+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-29T16:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0
@@ -6902,12 +6929,12 @@
     "social_GBPJPY": {
       "name": "Bluesky・GBP/JPY",
       "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=GBPJPY&sort=latest&limit=25",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "cooldown",
       "error": "同じ公開APIの認証/利用制限により停止",
       "http_status": 403,
-      "next_retry_at": "2026-10-28T10:33:05+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-29T16:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0
@@ -6915,12 +6942,12 @@
     "social_GBPUSD": {
       "name": "Bluesky・GBP/USD",
       "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=GBPUSD&sort=latest&limit=25",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "cooldown",
       "error": "同じ公開APIの認証/利用制限により停止",
       "http_status": 403,
-      "next_retry_at": "2026-10-28T10:33:05+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-29T16:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0
@@ -6928,30 +6955,30 @@
     "social_USDJPY": {
       "name": "Bluesky・USD/JPY",
       "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=USDJPY&sort=latest&limit=25",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
-      "status": "cooldown",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
+      "status": "failed",
       "error": "HTTP 403",
       "http_status": 403,
-      "next_retry_at": "2026-10-28T10:33:05+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-29T16:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0,
-      "consecutive_failures": 11
+      "consecutive_failures": 12
     },
     "tankan": {
       "name": "日銀短観・企業の想定為替",
       "url": "https://www.boj.or.jp/statistics/tk/yoshi/index.htm",
-      "last_attempt_at": "2026-10-28T08:29:18+00:00",
+      "last_attempt_at": "2026-10-28T16:01:32+00:00",
       "status": "format_error",
       "error": "ValueError: tankan_publication_missing",
       "http_status": 200,
-      "next_retry_at": "2026-10-28T12:29:18+00:00",
-      "attempts": 68,
+      "next_retry_at": "2026-10-28T20:01:32+00:00",
+      "attempts": 69,
       "new_records": 0,
       "revisions": 0,
       "record_count": 0,
-      "consecutive_failures": 51,
+      "consecutive_failures": 52,
       "document_url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm"
     }
   },
@@ -7117,6 +7144,33 @@
       "prior_observed_at": "2026-09-23T23:50:00+00:00",
       "observed_at": "2026-10-21T23:50:00+00:00",
       "version": 2
+    },
+    {
+      "record_id": "8d22e927ad7cc1c167b7022b",
+      "seen_at": "2026-10-28T16:01:32+00:00",
+      "prior_payload": {
+        "title": "Major Economic Indicators Latest Numbers",
+        "currencies": [
+          "USD"
+        ],
+        "updated_at": null,
+        "direction": null,
+        "role": "official_release",
+        "importance": "未分類"
+      },
+      "new_payload": {
+        "title": "Major Economic Indicators Latest Numbers",
+        "currencies": [
+          "USD"
+        ],
+        "updated_at": null,
+        "direction": null,
+        "role": "official_release",
+        "importance": "未分類"
+      },
+      "prior_observed_at": "2026-10-20T14:02:35+00:00",
+      "observed_at": "2026-10-28T14:01:13+00:00",
+      "version": 5
     }
   ],
   "runs": [
@@ -7797,6 +7851,16 @@
       "fresh_sources": 1,
       "new_records": 0,
       "revisions": 0,
+      "status": "partial",
+      "test_transport": false
+    },
+    {
+      "at": "2026-10-28T16:01:32+00:00",
+      "attempted": 22,
+      "transport_ok": 10,
+      "fresh_sources": 3,
+      "new_records": 1,
+      "revisions": 1,
       "status": "partial",
       "test_transport": false
     }
