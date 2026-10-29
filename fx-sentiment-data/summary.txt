@@ -1,6 +1,6 @@
-通貨心理レーダー｜2026-10-29T14:17:36+00:00
+通貨心理レーダー｜2026-10-29T20:16:44+00:00
 
-鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有6ペア、指標0件、ニュース11件。
+鮮度・日付・形式を通過した資料：銀行0行、直接の投資家保有6ペア、指標0件、ニュース12件。
 
 投資家の直接保有を確認できた6ペア中、資産運用とレバレッジ型が逆向きなのは5ペア。
 
@@ -10,7 +10,7 @@
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
-確認できた主な公表：BoE「Minutes of the Meeting of the Court of Directors held on 17 September 2026」 ／ ECB「Christine Lagarde, Boris Vujčić: Monetary policy statement」 ／ ECB「Monetary policy decisions」。
+確認できた主な公表：ECB「Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure」 ／ BoE「Minutes of the Meeting of the Court of Directors held on 17 September 2026」 ／ ECB「Christine Lagarde, Boris Vujčić: Monetary policy statement」。
 
 USD/JPY｜短期：判定保留｜区分間で逆向き
 
