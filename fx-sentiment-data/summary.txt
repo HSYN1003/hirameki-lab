@@ -1,6 +1,6 @@
-通貨心理レーダー｜2026-11-05T18:44:50+00:00
+通貨心理レーダー｜2026-11-06T00:16:13+00:00
 
-鮮度・日付・形式を通過した資料：銀行1行、直接の投資家保有6ペア、指標0件、ニュース13件。
+鮮度・日付・形式を通過した資料：銀行1行、直接の投資家保有6ペア、指標0件、ニュース14件。
 
 投資家の直接保有を確認できた6ペア中、資産運用とレバレッジ型が逆向きなのは5ペア。
 
@@ -10,7 +10,7 @@
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
-確認できた主な公表：FRB「Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc」 ／ BLS「Major Economic Indicators Latest Numbers」 ／ BoE「Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes」。
+確認できた主な公表：RBA「Designation of Prosegur Australia Pty Ltd under the Cash Distribution Framework Act 2026」 ／ FRB「Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc」 ／ BLS「Major Economic Indicators Latest Numbers」。
 
 USD/JPY｜短期：判定保留｜区分間で逆向き
 銀行 2026-12-31：下方向（1行のみ）
