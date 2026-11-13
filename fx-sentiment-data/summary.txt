@@ -1,4 +1,4 @@
-通貨心理レーダー｜2026-11-13T16:21:33+00:00
+通貨心理レーダー｜2026-11-13T22:36:49+00:00
 
 鮮度・日付・形式を通過した資料：銀行1行、直接の投資家保有6ペア、指標1件、ニュース7件。
 
@@ -6,13 +6,13 @@
 
 企業の計画前提・投資家保有・銀行予想は合計点にせず、同じ予測終点の銀行だけを読み合わせます。
 
-取得/形式/巻戻しの問題が13系統。取得失敗は「新情報なし」としません。
+取得/形式/巻戻しの問題が12系統。取得失敗は「新情報なし」としません。
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
 米PPI 総合/最終需要（2026-10・mom・SA）実績+0.3%。発表前保存の市場予想がないため、サプライズは計算しません。指標の強弱だけで為替の方向は断定しません。
 
-確認できた主な公表：BLS「Major Economic Indicators Latest Numbers」 ／ BoE「The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC」 ／ ECB「Isabel Schnabel: Made in Europe」。
+確認できた主な公表：FRB「Agencies extend comment period for proposed third-party risk management guidance」 ／ BLS「Major Economic Indicators Latest Numbers」 ／ BoE「The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC」。
 
 USD/JPY｜短期：判定保留｜区分間で逆向き
 銀行 2026-12-31：下方向（1行のみ）
