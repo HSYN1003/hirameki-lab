@@ -1,6 +1,6 @@
-通貨心理レーダー｜2026-11-18T04:19:23+00:00
+通貨心理レーダー｜2026-11-18T13:57:01+00:00
 
-鮮度・日付・形式を通過した資料：銀行1行、直接の投資家保有6ペア、指標0件、ニュース8件。
+鮮度・日付・形式を通過した資料：銀行1行、直接の投資家保有6ペア、指標0件、ニュース10件。
 
 投資家の直接保有を確認できた6ペア中、資産運用とレバレッジ型が逆向きなのは5ペア。
 
@@ -10,7 +10,7 @@
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
-確認できた主な公表：ECB「Philip R. Lane: The practice and science of monetary policy communication: the ECB experience」 ／ BLS「Major Economic Indicators Latest Numbers」 ／ 日本銀行「Release of Latest "Loans and Bills Discounted by Sector" and "Loans to Households" Data」。
+確認できた主な公表：ECB「Boris Vujčić: Financial Stability Review - November 2026」 ／ ECB「Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook」 ／ ECB「Philip R. Lane: The practice and science of monetary policy communication: the ECB experience」。
 
 USD/JPY｜短期：判定保留｜区分間で逆向き
 銀行 2026-12-31：下方向（1行のみ）
