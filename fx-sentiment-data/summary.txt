@@ -1,4 +1,4 @@
-通貨心理レーダー｜2026-11-23T09:02:46+00:00
+通貨心理レーダー｜2026-11-23T21:21:52+00:00
 
 鮮度・日付・形式を通過した資料：銀行1行、直接の投資家保有6ペア、指標0件、ニュース3件。
 
@@ -10,7 +10,7 @@
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
-確認できた主な公表：FRB「Federal Reserve announces College Fed Challenge winners」 ／ BLS「Major Economic Indicators Latest Numbers」 ／ FRB「Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances」。
+確認できた主な公表：ECB「Philip R. Lane: Climate change and monetary policy」 ／ BoE「General insurance stress test highlights value of rehearsing crisis response and recovery」 ／ ECB「ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral」。
 
 USD/JPY｜短期：判定保留｜区分間で逆向き
 銀行 2026-12-31：下方向（1行のみ）
