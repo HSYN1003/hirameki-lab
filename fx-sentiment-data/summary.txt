@@ -1,6 +1,6 @@
-通貨心理レーダー｜2026-11-24T06:00:26+00:00
+通貨心理レーダー｜2026-11-24T17:42:44+00:00
 
-鮮度・日付・形式を通過した資料：銀行1行、直接の投資家保有6ペア、指標0件、ニュース3件。
+鮮度・日付・形式を通過した資料：銀行1行、直接の投資家保有6ペア、指標0件、ニュース5件。
 
 投資家の直接保有を確認できた6ペア中、資産運用とレバレッジ型が逆向きなのは5ペア。
 
@@ -10,7 +10,7 @@
 
 短期の方向判断は0/10ペアで根拠を確認。未確認ペアは保留し、上昇確率・安全点数は作りません。
 
-確認できた主な公表：ECB「Philip R. Lane: Climate change and monetary policy」 ／ BoE「General insurance stress test highlights value of rehearsing crisis response and recovery」 ／ ECB「ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral」。
+確認できた主な公表：BoE「Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee」 ／ ECB「Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe」 ／ ECB「Philip R. Lane: Climate change and monetary policy」。
 
 USD/JPY｜短期：判定保留｜区分間で逆向き
 銀行 2026-12-31：下方向（1行のみ）
